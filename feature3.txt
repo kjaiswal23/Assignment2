@@ -1,3 +1,4 @@
-this is my feature three file..
 this is to test merge conflict
+this is my feature three file..
+this is to test merge conflict - line 3
 updating content 
